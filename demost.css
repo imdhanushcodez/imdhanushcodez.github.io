@@ -1,0 +1,176 @@
+.yes{
+        display: inline-block;
+        margin-left: 40px;
+        margin-top: 0px;
+        padding-top: 1.5%;
+        font-size: 30px;
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.sp{
+    font-size: 30px;
+    color:black;
+}
+header{
+    
+    background-color: black;
+    height: 90px;
+    position: sticky;
+    top:0;
+    
+}
+.yes2{
+    color: white;
+    margin-left: 40px;
+    font-family: 'Bruno Ace SC', cursive;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.ma{
+    margin: 0;
+
+    }
+.yes3{
+   
+    float: right;
+    margin-right: 20px; 
+    margin-top: 25px;
+    text-align-last: right;
+    font-size: 20px;
+    color: white;
+}
+.forl{
+    
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 50px; 
+    height: 50px;
+    float: left;
+}
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 3.9%;
+    border-radius: 5PX;
+    display: inline-block;
+  }
+  
+  
+  .card:hover {
+    box-shadow: 0 64px 128px 0 rgba(0,0,0,0.2);
+    background-color: black;
+    color: white;
+  }
+  .btn{
+    width: 35%;
+    height: 10%;
+    margin: 5%;
+    margin-top: -16%;
+    background-color: black;
+}
+.g2{
+    width:25%;
+    height: 25%;
+}
+.google{
+    color:black;
+    text-align: center;
+}
+.card1{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 5.9%;
+    border-radius: 5PX;
+    margin-bottom: 6%;
+    display: inline-block;
+  }
+  .btn1{
+    width: 130%;
+    height: 20%;
+    margin: 5%;
+    margin-top: -16%;
+    background-color: black;
+    border:solid;
+    border-color:white;
+    border-width: -3%;
+
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+.spag{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.spag:hover{
+    color: black;
+    font-family: 'Audiowide', cursive;
+}
+.yes2:hover{
+    border: solid;
+    border-color: white;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.card7{
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 3.9%;
+    border-radius: 5PX;
+    display: inline-block;
+  }
+
+.box{
+    width:25%;
+    height: 80%;
+    background-color: rgb(254, 254, 254);
+    align-self: center;
+    align-items: center;
+    margin-left: 0%;
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-top: -2%;
+    background-color: red;
+    
+}
+.ourprod{
+    background-color: #f2cf43;
+    background-image: linear-gradient(315deg, #f2cf43 0%, #19a186 74%);
+    height: 770px;
+    display: flex;
+    margin-top: -5%;
+    
+}
+@keyframes plus {
+    0%{
+        background-color: #f2cf43;
+        background-image: linear-gradient(315deg, #f2cf43 0%, #19a186 74%);
+    }
+    50%{
+        background-color: #43f29d;
+        background-image: linear-gradient(315deg, #43f292 0%, #91a119 74%);
+    }
+    100%{
+        background-color: #75f243;
+        background-image: linear-gradient(315deg, #8cf243 0%, #a19819 74%)
+    }
+    
+}
+  
+  
+  
